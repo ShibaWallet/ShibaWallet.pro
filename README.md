@@ -1,0 +1,1 @@
+# ShibaWallet.pro
