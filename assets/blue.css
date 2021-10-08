@@ -1,0 +1,171 @@
+a,
+h1 > a:hover, 
+h2 > a:hover, 
+h3 > a:hover, 
+h4 > a:hover, 
+h5 > a:hover, 
+h6 > a:hover,
+.custom-btn,
+.play-btn:hover > i,
+.button-store .custom-btn:hover i,
+.button-store .custom-btn:hover p,
+.button-store .custom-btn:hover p em,
+.feature-box .box-icon .icon,
+.feature-box:hover .box-text > h4,
+.service-single:hover .icon,
+.service-single.service-style-2 .icon,
+.service-single.service-style-2:hover .icon,
+.service-single.service-style-2:hover h5,
+.overview-box:hover .icon,
+.overview-list .fa-li,
+.pricing-item .pricing-head .price,
+.pricing-item .pricing-head .price .dollar-sign,
+.op-mobile-menu .nav-menu li a:hover,
+.fixed-menu .nav-menu li a.active,
+.fixed-menu .nav-menu li.current_page_item > a,
+.fixed-menu .nav-menu li.current_page_parent > a,
+.page-header .page-header-content .breadcrumb li a:hover,
+.testimonial-carousel .carousel-text .single-box i,
+.accordion .card-header a:not(.collapsed),
+.accordion .card-header a:hover,
+.blog-home .blog-col:hover .blog-text h4 > a,
+.price-table .icon,
+.price-table:hover .plan-type,
+.contact-info .icon,
+footer a:hover,
+footer .widget_social a:hover > i,
+.blog-post .image-slider .arrows .arrow:hover,
+.post-counters li a:hover,
+.share-btn:hover > p,
+.share-btn li:hover > a,
+.share-btn li:hover > a > i,
+.nav-links a:hover,
+.widget ul li a:hover,
+.sidebar .search-form button:hover,
+.sidebar .search-form button:focus,
+.comment-respond h3 small > a,
+.author-social a:hover,
+.wp-block-pullquote__citation,
+.wp-block-pullquote cite,
+.wp-block-pullquote footer,
+.icon.colored i {
+	color:#0052ff;
+}
+
+.fixed-menu .nav-menu li a:hover,
+.wpcf7 form.sent .wpcf7-response-output,
+.is-style-outline .wp-block-button__link {
+	color:#0052ff !important;
+}
+
+.custom-btn,
+.price-table.plan-popular,
+.service-single.service-style-2:hover,
+.testimonial-carousel .carousel-images .slick-center img,
+.clients-slider .owl-dots .owl-dot span,
+.screenshot-slider .owl-dots .owl-dot span,
+.progress-heading .progress-value > span:before {
+	border-color:#0052ff;
+}
+
+input:focus, 
+textarea:focus,
+input.notice, 
+textarea.notice,
+.is-style-outline .wp-block-button__link {
+	border-color:#0052ff !important;
+}
+
+.is-style-outline .wp-block-button__link:hover {
+	border-color:#6610f2 !important;
+}
+
+.page-loader .progress,
+.wp-block-pullquote blockquote {
+	border-left-color:#0052ff;
+}
+
+.user-comment.bypostauthor .user-comment-inner:after {
+	border-top-color:#0052ff;
+}
+
+.banner:before {
+	background:linear-gradient(-47deg, #0052ff 0%, #6610f2 100%);
+}
+
+.header-privacy-policy-bg {
+	background: linear-gradient(-47deg, #0052ff 0%, #6610f2 100%);
+}
+
+.btn,
+.to-top:hover,
+.play-btn,
+.service-single:hover,
+.service-single .icon,
+.overview-box .icon,
+.overview-box:hover,
+.fixed-menu .nav-menu li a.active span:after,
+.fixed-menu .nav-menu li.current_page_item > a span:after,
+.fixed-menu .nav-menu li.current_page_parent > a span:after,
+.nav-menu li.dropdown .submenu li a:hover,
+.nav-menu li.menu-item-has-children .sub-menu li.current_page_item > a,
+.nav-menu li.page_item_has_children .children li.current_page_item > a,
+.nav-menu li.menu-item-has-children .sub-menu li a:hover,
+.nav-menu li.page_item_has_children .children li a:hover,
+.search-wrapper .search-close-btn:hover:before,
+.search-wrapper .search-close-btn:hover:after,
+.clients-slider .owl-dots .active span,
+.screenshot-slider .owl-dots .active span,
+.blog-home .blog-col:hover .blog-category,
+.page-title .blog-category > a:hover,
+.pagination li a.active, 
+.pagination li a:hover,
+.pagination li:last-child a,
+.pagination li:first-child a,
+.page-links .post-page-numbers.current,
+.widget_categories li span,
+.recent-post-image:before,
+.author-social a:hover,
+.member-info ul:after,
+.progress .progress-bar,
+.progress-heading .progress-value > span,
+.tagcloud > a:hover,
+blockquote {
+	background-color:#0052ff;
+}
+
+.checkout-button,
+.wp-block-button__link,
+.wp-block-search__button,
+input.btn,
+input.search-submit {
+	background-color:#0052ff !important;
+}
+
+.btn:hover,
+#zoom-in:hover, 
+#zoom-out:hover,
+.pagination li a:hover,
+.pagination li a.active,
+.page-links .post-page-numbers:hover {
+	background-color:#6610f2;
+}
+
+.checkout-button:hover,
+.wp-block-button__link:hover,
+.wp-block-search__button:hover,
+input.btn:hover,
+input.search-submit:hover {
+	background-color:#6610f2 !important;
+}
+
+#zoom-in, 
+#zoom-out,
+.team-member .team-social {
+	background-color:rgba(124, 79, 224, 0.85);
+}
+
+
+
+
+
